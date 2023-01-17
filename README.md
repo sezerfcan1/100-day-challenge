@@ -12,9 +12,9 @@
 In this repository, I will share 100 applications that I will develop with React. I will try to write clean code. 
 So I will use typescript instead of javascript.  :) The challenges will usually be css-heavy topics.
 
-### 1- Progress Bar
+### [1- Progress Bar](https://github.com/sezerfcan1/100-day-challenge/tree/main/progress-bar)
 
-[![Product Name Screen Shot][progress-bar-ss]](https://example.com)
+[![Product Name Screen Shot][progress-bar-ss]](https://github.com/sezerfcan1/100-day-challenge/tree/main/progress-bar)
 
 
 ## Installation
