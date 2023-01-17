@@ -14,7 +14,7 @@ So I will use typescript instead of javascript.  :) The challenges will usually 
 
 ### 1- Progress Bar
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][progress-bar-ss]](https://example.com)
 
 
 ## Installation
@@ -30,4 +30,5 @@ After the successfull installation of the packages: `yarn dev`
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sezerfcan/
-[product-screenshot]: [images/progress-bar.png](https://github.com/sezerfcan1/100-day-challenge/tree/main/progress-bar)
+[progress-bar-ss]: images/progress-bar.png
+
