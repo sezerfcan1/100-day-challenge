@@ -16,6 +16,10 @@ So I will use typescript instead of javascript.  :) The challenges will usually 
 
 [![Product Name Screen Shot][progress-bar-ss]](https://github.com/sezerfcan1/100-day-challenge/tree/main/progress-bar)
 
+### [2- Switches](https://github.com/sezerfcan1/100-day-challenge/tree/main/switches)
+
+[![Product Name Screen Shot][switches-ss]](https://github.com/sezerfcan1/100-day-challenge/tree/main/switches)
+
 
 ## Installation
 
@@ -31,4 +35,5 @@ After the successfull installation of the packages: `yarn dev`
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sezerfcan/
 [progress-bar-ss]: images/progress-bar.png
+[switches-ss]: images/switches.png
 
