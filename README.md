@@ -23,7 +23,9 @@ So I will use typescript instead of javascript.  :) The challenges will usually 
 
 ## Installation
 
-Clone the repo and run `yarn install`
+Clone the repo.
+> cd <dir_name>
+> yarn install
 
 ## Start
 
